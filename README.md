@@ -6,3 +6,9 @@ allow users to re-use and customize configuration by providing a consistent
 interface to change how a given configuration behaves.
 
 Follow along with this [Learn Terraform variables](https://developer.hashicorp.com/terraform/tutorials/configuration-language/variables) tutorial.
+
+## My notes
+- TODO: add your notes here
+
+## My notes
+- TODO: add your notes here
