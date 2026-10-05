@@ -8,7 +8,12 @@ interface to change how a given configuration behaves.
 Follow along with this [Learn Terraform variables](https://developer.hashicorp.com/terraform/tutorials/configuration-language/variables) tutorial.
 
 ## My notes
-- TODO: add your notes here
+- Input variables make configs reusable, with types and default values
+- Values can be set with `-var`, `terraform.tfvars` or `TF_VAR_` env vars
+- `sensitive = true` hides a value in CLI output
 
 ## My notes
-- TODO: add your notes here
+- Input variables make configs reusable, with types and default values
+- Values can be set with `-var`, `terraform.tfvars` or `TF_VAR_` env vars
+- `sensitive = true` hides a value in CLI output
+
